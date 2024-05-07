@@ -83,13 +83,14 @@ p {
   background-repeat: no-repeat; /* Do not repeat the background image */
 }
 .banner {
-  display: flex;
+  display: flex !important;
   align-items: center;
   position: relative;
   height: 100%;
   color: #fff;
   text-align: center;
   z-index: 1;
+  
 }
 .banner h1 {
   font-weight: 800;
@@ -97,8 +98,10 @@ p {
 .banner p {
   font-weight: 700;
 }
+
+/* navbar  overide position: absolute !important ;*/
 .navbar {
-  position: absolute;
+  position: absolute ;
   left: 0;
   top: 0;
   padding: 0;

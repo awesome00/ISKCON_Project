@@ -145,13 +145,13 @@
             color: #007bff;
         }
 
-        .dk-footer-box-info {
+        /* .dk-footer-box-info {
             position: absolute;
             top: -122px;
             background: #202020;
             padding: 40px;
             z-index: 2;
-        }
+        } */
 
         .dk-footer-box-info .footer-social-link h3 {
             color: #fff;
@@ -202,7 +202,7 @@
         }
 
         .footer-awarad {
-            margin-top: 285px;
+            margin-top: 55px;
             display: -webkit-box;
             display: -webkit-flex;
             display: -moz-box;
@@ -426,6 +426,9 @@
             background: #FA6742;
             border-color: #FA6742;
         }
+        .dk-footer{
+            width: 100%; 
+        }
     </style>
 </head>
 
@@ -480,7 +483,7 @@
                     </div>
                     <!-- End Footer info -->
                     <div class="footer-awarad">
-                        <img src="images/icon/best.png" alt="">
+                        <!-- <img src="images/icon/best.png" alt=""> -->
                         <p>Best Design Company 2019</p>
                     </div>
                 </div>

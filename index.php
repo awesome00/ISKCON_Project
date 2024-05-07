@@ -293,7 +293,7 @@
 
 
     </div>
-    <?php include ("foter.php"); ?>
+    <?php include ("footer.php"); ?>
 
 
 
