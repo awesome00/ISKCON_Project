@@ -1,0 +1,84 @@
+/* Profile Card Styles */
+  .profile-card-6 {
+    width: 550px;
+    height: 350px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    position: relative;
+    margin: 10px auto;
+    cursor: pointer;
+   
+  }
+  
+  .profile-card-6 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: filter 0.15s linear;
+   
+  }
+  
+  .profile-card-6 .profile-name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(140deg, rgba(0, 0, 0, 0.4) 50%, rgba(255, 255, 0, 0) 50%);
+    transition: padding 0.15s linear;
+  }
+  
+  .profile-card-6 .profile-position {
+    position: absolute;
+    color: rgba(255, 255, 255, 0.4);
+    top: 40%;
+    left: 10px;
+    transition: left 0.15s linear;
+  }
+  
+  .profile-card-6 .profile-overview {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4) 50%, rgba(255, 255, 0, 0));
+    color: #fff;
+    padding: 20px;
+    transition: padding 0.15s linear;
+  }
+  
+  .profile-card-6:hover img {
+    filter: brightness(80%);
+  }
+  
+  .profile-card-6:hover .profile-name {
+    padding: 10px 25px;
+  }
+  
+  .profile-card-6:hover .profile-position {
+    left: 20px;
+  }
+  
+  .profile-card-6:hover .profile-overview {
+    padding-bottom: 15px;
+  }
+  
+  /* Button Styles */
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
