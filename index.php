@@ -203,43 +203,89 @@
 
 
 
+
         <!-- ********************************************************************************************************** -->
 
 
         <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css /> -->
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-sm-6">
-                    <div class="box">
-                        <img src="assets/images/bg-img.jpg">
-                        <div class="box-content">
-                            <h3 class="title">Williamson</h3>
-                            <span class="post">Web designer</span>
-                            <ul class="icon">
-                                <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>|
-                            </ul>
+        <section style="margin-bottom:80px">
+
+            <div class="container" style="margin-top:80px">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="box">
+                            <img src="assets/images/bg-img.jpg">
+                            <div class="box-content">
+                                <h3 class="title">Williamson</h3>
+                                <span class="post">Web designer</span>
+                                <ul class="icon">
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>|
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="box">
+                            <img src="assets/images/bg-img.jpg">
+                            <div class="box-content">
+                                <h3 class="title">Miranda Roy</h3>
+                                <span class="post">Web developer</span>
+                                <ul class="icon">
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="box">
+                            <img src="assets/images/bg-img.jpg">
+                            <div class="box-content">
+                                <h3 class="title">Williamson</h3>
+                                <span class="post">Web designer</span>
+                                <ul class="icon">
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>|
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6">
-                    <div class="box">
-                        <img src="assets/images/bg-img.jpg">
-                        <div class="box-content">
-                            <h3 class="title">Miranda Roy</h3>
-                            <span class="post">Web developer</span>
-                            <ul class="icon">
-                                <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                <li><a href="#"><i class="fa fa-link"></i></a></li>
-                            </ul>
+                <div class="row" style="margin-top:50px">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="box">
+                            <img src="assets/images/bg-img.jpg">
+                            <div class="box-content">
+                                <h3 class="title">Williamson</h3>
+                                <span class="post">Web designer</span>
+                                <ul class="icon">
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>|
+                                </ul>
+                            </div>
                         </div>
                     </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="box">
+                            <img src="assets/images/bg-img.jpg">
+                            <div class="box-content">
+                                <h3 class="title">Williamson</h3>
+                                <span class="post">Web designer</span>
+                                <ul class="icon">
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>|
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
-
-
 
             </div>
-        </div>
+
+        </section>
+
 
 
 
