@@ -462,7 +462,8 @@
                     src="https://www.hkmdehradun.org/wp-content/uploads/2023/10/HKM_Dehradun_Logo-removebg-preview-300x181.png"
                     alt="HKM_Dehradun_Logo-removebg-preview" />
 
-                <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#main-nav">
+                <button type="button" class="navbar-toggler collapsed" aria-controls="main-nav" aria-expanded="false"
+                    aria-label="Toggle navigation" data-toggle="collapse" data-target="#main-nav">
                     <span class="menu-icon-bar"></span>
                     <span class="menu-icon-bar"></span>
                     <span class="menu-icon-bar"></span>
@@ -511,7 +512,8 @@
         </div>
     </header>
 
-    </header>
+
+
 
 
 
